@@ -19,3 +19,10 @@ Consulente in **IT Governance, GRC (Governance, Risk & Compliance) e Cybersecuri
 - [Certificazioni e attestati pubblici](https://github.com/manfredimarrocco/Certificazioni)
 
 Il sito personale raccoglie le descrizioni aggiornate dei progetti. I documenti del repository *Certificazioni* restano disponibili ai loro URL originali.
+
+
+## YouTube — Cybersecurity meets gaming
+
+[Guarda il canale di Manfredi Marrocco | GRC & Cybersecurity](https://www.youtube.com/@ManfrediMarrocco).
+
+Cybersecurity e GRC spiegate attraverso videogiochi, meme e scenari pratici. Video brevi in inglese con sottotitoli italiani, per avvicinarsi a sicurezza informatica, gestione dei rischi e compliance.
