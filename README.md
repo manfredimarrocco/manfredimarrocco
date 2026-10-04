@@ -90,3 +90,12 @@ Il sito personale raccoglie le descrizioni aggiornate dei progetti. I documenti 
 
 
 Cybersecurity e GRC spiegate attraverso videogiochi, meme e scenari pratici. Video brevi in inglese con sottotitoli italiani, per avvicinarsi a sicurezza informatica, gestione dei rischi e compliance.
+
+
+## Profili ufficiali
+
+- [Instagram](https://www.instagram.com/manfredimarroccocyber/)
+- [TikTok](https://www.tiktok.com/@manfredimarrocco.cyber)
+- [X](https://x.com/ManfrediMarrocc)
+
+Gli stessi approfondimenti su Cybersecurity e GRC sono disponibili anche sui miei profili social ufficiali.
