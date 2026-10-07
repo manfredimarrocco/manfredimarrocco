@@ -27,9 +27,7 @@ Consulente in **IT Governance, GRC (Governance, Risk & Compliance) e Cybersecuri
 
 - [Titanium — GRC & IT Audit Tool](https://manfredimarrocco.blog/progetti/titanium/): supporto alla gestione degli audit e al monitoraggio della compliance.
 - [Odisseo — automazione dei sopralluoghi ispettivi](https://manfredimarrocco.blog/progetti/odisseo/): digitalizzazione dei controlli e tracciamento delle non conformità.
-
-
-
+- [ATLAS — Mappatura normativa & Gap Assessment](https://manfredimarrocco.blog/progetti/atlas/): modello predisposto per mappare requisiti normativi, controlli ed evidenze e supportare attività di gap assessment.
 
 ## Qualifiche We Learn
 
