@@ -39,7 +39,7 @@ Consulente in **IT Governance, GRC (Governance, Risk & Compliance) e Cybersecuri
 | Auditor/Lead Auditor ISO/IEC 27001:2022 | 16 luglio 2026 | Non indicata | Attestato n. 1231/2026 | [Apri PDF](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20auditor%2027001.pdf) |
 | Auditor/Lead Auditor ISO 9001:2015 | 16 luglio 2026 | Non indicata | Attestato n. 2299/2026 | [Apri PDF](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20auditor%209001.pdf) |
 
-Attestati di formazione rilasciati da **We Learn S.r.l.**, con superamento dell’esame. Le icone collegano direttamente ai documenti originali pubblicati nel repository.
+Attestati di formazione rilasciati da **We Learn S.r.l.**, con superamento dell’esame. Le icone collegano alle copie pubbliche con il codice fiscale oscurato; gli originali sono conservati privatamente.
 
 ## Lead Auditor ISO/IEC 42001:2023
 
@@ -51,10 +51,10 @@ Attestati di formazione rilasciati da **We Learn S.r.l.**, con superamento dell�
 
 | Qualifica | Rilascio | Scadenza | Credenziale | Attestato |
 | --- | --- | --- | --- | --- |
-| Lead Auditor ISO/IEC 42001:2023 | 16 ottobre 2026 | Non indicata | A42001.26-10.16.1 | [Apri attestato ACM CERT](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20Auditor%20ISO%20IEC%2042001%202023%20-%20ACM%20CERT%20-%20pubblico.pdf) |
+| Lead Auditor ISO/IEC 42001:2023 | 16 ottobre 2026 | Non indicata | A42001.26-10.16.1 | [Apri copia pubblica ACM CERT](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20Auditor%20ISO%20IEC%2042001%202023%20-%20ACM%20CERT%20-%20pubblico.pdf) |
 | Lead Auditor ISO 22301:2019 | 6 ottobre 2026 | Non indicata | A22301. 26-10.06.1 | [Apri attestato di idoneità](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20auditor%2022301.pdf) |
 
-Attestato di idoneità rilasciato da **ACM CERT S.r.l.**, con superamento dell’esame. L’icona collega direttamente al documento originale pubblicato nel repository.
+Attestato di idoneità rilasciato da **ACM CERT S.r.l.**, con superamento dell’esame. L’icona collega al documento pubblico nel repository.
 
 ## Qualifiche Mastermind Assurance
 
