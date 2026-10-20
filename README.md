@@ -25,8 +25,8 @@ Consulente in **IT Governance, GRC (Governance, Risk & Compliance) e Cybersecuri
 
 
 
-- [Titanium — GRC & IT Audit Tool](https://manfredimarrocco.blog/progetti/titanium/): supporto alla gestione degli audit e al monitoraggio della compliance. Demo open source con dati sintetici. [Prova nel Lab](https://manfredimarrocco.blog/lab/#titanium) · [Sorgenti](https://github.com/manfredimarrocco/titanium-lab).
-- [Odisseo — automazione dei sopralluoghi ispettivi](https://manfredimarrocco.blog/progetti/odisseo/): digitalizzazione dei controlli e tracciamento delle non conformità. Demo open source con dati sintetici. [Prova nel Lab](https://manfredimarrocco.blog/lab/#odisseo) · [Sorgenti](https://github.com/manfredimarrocco/odisseo-lab).
+- [Titanium — GRC & IT Audit Tool](https://manfredimarrocco.blog/progetti/titanium/): supporto alla gestione degli audit e al monitoraggio della compliance. Demo ufficiale stabile **1.0.0** del prodotto, open source, con dati sintetici e avvertenze d’uso incluse. [Prova nel Lab](https://manfredimarrocco.blog/lab/#titanium) · [Sorgenti](https://github.com/manfredimarrocco/titanium-lab) · [Download 1.0.0](https://github.com/manfredimarrocco/titanium-lab/releases/tag/v1.0.0).
+- [Odisseo — automazione dei sopralluoghi ispettivi](https://manfredimarrocco.blog/progetti/odisseo/): digitalizzazione dei controlli e tracciamento delle non conformità. Demo ufficiale stabile **1.0.0** del prodotto, open source, con dati sintetici e avvertenze d’uso incluse. [Prova nel Lab](https://manfredimarrocco.blog/lab/#odisseo) · [Sorgenti](https://github.com/manfredimarrocco/odisseo-lab) · [Download 1.0.0](https://github.com/manfredimarrocco/odisseo-lab/releases/tag/v1.0.0).
 - [ATLAS — Mappatura normativa & Gap Assessment](https://manfredimarrocco.blog/progetti/atlas/): modello predisposto per mappare requisiti normativi, controlli ed evidenze e supportare attività di gap assessment.
 
 ## Qualifiche We Learn
