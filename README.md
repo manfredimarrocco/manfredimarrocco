@@ -110,7 +110,7 @@ Cybersecurity e GRC spiegate attraverso videogiochi, meme e scenari pratici. Vid
 - [DEV Community](https://dev.to/manfredimarrocco)
 - [Instagram](https://www.instagram.com/manfredimarroccocyber/)
 - [TikTok](https://www.tiktok.com/@manfredimarrocco.cyber)
-- [X](https://x.com/ManfrediMarrocc)
+- [X](https://x.com/manfmarrocco)
 - [Bluesky](https://bsky.app/profile/manfredimarrocco.bsky.social)
 - [Threads](https://www.threads.com/@manfredimarroccocyber)
 - [Reddit](https://www.reddit.com/user/ManfrediMarrocco/)
