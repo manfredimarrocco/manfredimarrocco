@@ -72,6 +72,12 @@ Attestato di idoneità rilasciato da **ACM CERT S.r.l.**, con superamento dell�
 Attestati di competenza rilasciati da **Mastermind Assurance** a seguito del completamento della formazione e del relativo esame. I badge collegano alle credenziali personali su Credly.
 
 
+
+
+## Formazione complementare
+
+[ISO 37001:2025 — Auditor/Lead Auditor course completion and examination (ACM CERT).](https://github.com/manfredimarrocco/Certificazioni/blob/main/ISO_37001_2025_Auditor_Lead_Auditor_Attestato.pdf) Attestato di idoneità, distinto dalla certificazione personale accreditata.
+
 ## Approfondimenti e documenti
 
 
