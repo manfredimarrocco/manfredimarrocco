@@ -51,10 +51,13 @@ Attestati di formazione rilasciati da **We Learn S.r.l.**, con superamento dell�
 
 | Qualifica | Rilascio | Scadenza | Credenziale | Attestato |
 | --- | --- | --- | --- | --- |
-| Lead Auditor ISO/IEC 42001:2023 | 16 ottobre 2026 | Non indicata | A42001.26-10.16.1 | [Apri copia pubblica ACM CERT](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20Auditor%20ISO%20IEC%2042001%202023%20-%20ACM%20CERT%20-%20pubblico.pdf) |
-| Lead Auditor ISO 22301:2019 | 6 ottobre 2026 | Non indicata | A22301. 26-10.06.1 | [Apri attestato di idoneità](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20auditor%2022301.pdf) |
+| Lead Auditor ISO/IEC 42001:2023 | 16 ottobre 2026 | Non indicata | A42001.26-10.16.1 | [Apri PDF](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20Auditor%20ISO%20IEC%2042001%202023%20-%20ACM%20CERT%20-%20pubblico.pdf) |
+| Lead Auditor ISO 22301:2019 | 6 ottobre 2026 | Non indicata | A22301. 26-10.06.1 | [Apri PDF](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20auditor%2022301.pdf) |
+| Auditor/Lead Auditor ISO 37001:2025 | 4 novembre 2026 | Non indicata | A37001.26-11.04.1 | [Apri PDF](https://github.com/manfredimarrocco/Certificazioni/blob/main/ISO_37001_2025_Auditor_Lead_Auditor_Attestato.pdf) |
 
 Attestato di idoneità rilasciato da **ACM CERT S.r.l.**, con superamento dell’esame. L’icona collega al documento pubblico nel repository.
+
+ISO 37001:2025 — Auditor/Lead Auditor course completion and examination (ACM CERT). Attestato di idoneità, corso con esame di 16 ore sulla prevenzione della corruzione; corso concluso il 2 novembre 2026, iscritto al n. 363 del Registro Corsi Riconosciuti AICQ SICEV. Non costituisce certificazione personale accreditata.
 
 ## Qualifiche Mastermind Assurance
 
@@ -73,10 +76,6 @@ Attestati di competenza rilasciati da **Mastermind Assurance** a seguito del com
 
 
 
-
-## Formazione complementare
-
-[ISO 37001:2025 — Auditor/Lead Auditor course completion and examination (ACM CERT).](https://github.com/manfredimarrocco/Certificazioni/blob/main/ISO_37001_2025_Auditor_Lead_Auditor_Attestato.pdf) Attestato di idoneità, distinto dalla certificazione personale accreditata.
 
 ## Approfondimenti e documenti
 
